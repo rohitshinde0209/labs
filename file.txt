@@ -1,2 +1,3 @@
 Hi Rohit
 This is test file
+This is line 3
