@@ -1,7 +1,4 @@
 Hi Rohit
 This is test file
-<<<<<<< HEAD
 This is line Three
-=======
 This is line 3
->>>>>>> 17e686f34ec7334e0d26593027866bc1a9d19aa6
